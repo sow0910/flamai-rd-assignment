@@ -64,3 +64,13 @@ for t in (6, 60), recover the unknown parameters θ, M, and X, given:
 Final mean absolute error: **2.56 × 10⁻⁶** (effectively zero).
 
 ## Final answer (Desmos / LaTeX format)
+
+Domain: 6 ≤ t ≤ 60
+
+Desmos graph: https://www.desmos.com/calculator/iywunw4fbu
+
+## Files
+
+- `Untitled2.ipynb` — full notebook (data loading, exploration, optimization, validation)
+- `xy_data.csv` — provided data
+- `requirements.txt` — dependencies
